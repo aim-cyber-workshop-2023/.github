@@ -8,3 +8,11 @@ workshop hosted by the American Institute of Mathematics.
 
 For contributions that don't require a full repo, feel free to use our
 [wiki](https://github.com/aim-cyber-workshop-2023/.github/wiki)
+
+## Repositories
+
+To make the products of our workshop visible to other participants and stakeholders,
+we encourage you to create any new repositories on this organization.
+
+For repositories that already exist that are relevant to our work, please use
+[this page of the wiki](https://github.com/aim-cyber-workshop-2023/.github/wiki/Related-repositories).
