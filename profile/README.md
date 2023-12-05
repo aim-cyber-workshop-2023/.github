@@ -6,8 +6,8 @@ workshop hosted by the American Institute of Mathematics.
 
 ## Wiki
 
-To preserve any written artifacts of our discussions this week, please feel free to create pages on our wiki:
-[wiki](https://github.com/aim-cyber-workshop-2023/.github/wiki)
+To preserve any written artifacts of our discussions this week, please feel free to create pages on our
+[wiki](https://github.com/aim-cyber-workshop-2023/.github/wiki).
 
 ## Discussions
 
