@@ -16,7 +16,7 @@ For open discussions, use our [discussion board](https://github.com/aim-cyber-wo
 ## Repositories
 
 To make the products of our workshop visible to other participants and stakeholders,
-you can create new repositories on this organization.
+you can create new [repositories on this organization](https://github.com/orgs/aim-cyber-workshop-2023/repositories).
 
 For existing repositories and projects that are relevant to our work, please use
 [this page of the wiki](https://github.com/aim-cyber-workshop-2023/.github/wiki/Related-repositories).
