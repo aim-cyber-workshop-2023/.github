@@ -6,7 +6,7 @@ workshop hosted by the American Institute of Mathematics.
 
 ## Wiki
 
-For contributions that don't require a full repo, feel free to use our
+To preserve any written artifacts of our discussions this week, please feel free to create pages on our wiki:
 [wiki](https://github.com/aim-cyber-workshop-2023/.github/wiki)
 
 ## Discussions
